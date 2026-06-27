@@ -1,0 +1,4 @@
+jobs/
+*.bak
+__pycache__/
+.pytest_cache/
